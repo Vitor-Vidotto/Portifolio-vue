@@ -15,7 +15,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <WhatsAppIcon />
     </template>
     <template #heading>WhatsApp</template>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">Entre em contato</a>
+    <a href="https://wa.me/5515992609453?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Estou%20entrando%20em%20contato%20pois%20visitei%20seu%20portif%C3%B3lio!" target="_blank" rel="noopener">Entre em contato</a>
     em uma conversa direta.
   </ContatoItem>
 
@@ -24,7 +24,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <LinkedInIcon />
     </template>
     <template #heading>LinkedIn</template>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">Entre em contato</a>
+    <a href="linkedin.com/in/vitor-vidotto/" target="_blank" rel="noopener">Entre em contato</a>
     para propostas diretas.
   </ContatoItem>
   
@@ -33,7 +33,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <InstagramIcon />
     </template>
     <template #heading>Instagram</template>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">Entre em contato</a>
+    <a href="https://www.instagram.com/soy.vidotto/" target="_blank" rel="noopener">Entre em contato</a>
     pelo instagram para parcerias.
   </ContatoItem>
 </template>

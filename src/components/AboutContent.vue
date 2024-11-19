@@ -173,7 +173,7 @@ const deleteWord = () => {
           <a href="/contato" rel="noopener">Contato</a>!
           <br />
           Você pode me ajudar favoritando esse repositório no meu
-          <a href="https://github.com/Vitor-Vidotto/" target="_blank" rel="noopener">GitHub</a>!
+          <a href="https://github.com/Vitor-Vidotto/Portifolio-vue" target="_blank" rel="noopener">GitHub</a>!
         </p>
       </div>
     </div>
