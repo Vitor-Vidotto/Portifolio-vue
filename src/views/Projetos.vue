@@ -11,7 +11,7 @@ import ProjetosContent from '../components/ProjetosContent.vue'
 </template>
 
 <style scoped>
-.about-page {
+.projetos-page {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,7 +21,7 @@ import ProjetosContent from '../components/ProjetosContent.vue'
   color: var(--color-text);
 }
 
-.about-page > * {
+.projetos-page > * {
   text-align: left; /* Garante que os itens internos não sejam centralizados */
 }
 </style>
